@@ -1,0 +1,2 @@
+Command used to check disk space:
+Get-PSDrive -PSProvider FileSystem
